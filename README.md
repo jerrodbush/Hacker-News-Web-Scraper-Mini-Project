@@ -6,4 +6,4 @@ Mini-project: Using python, I created a program that scrapes Hacker News site fo
 ## Packages
 - Requests
 - Beautiful Soup
-- Pandas
+- Pandas 
